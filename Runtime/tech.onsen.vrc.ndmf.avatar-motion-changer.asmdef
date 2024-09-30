@@ -1,0 +1,16 @@
+{
+  "name": "tech.onsen.vrc.vndmf.avatar-motion-changer",
+  "references": [
+    "VRC.SDK3A",
+    "VRC.SDKBase"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": [],
+  "rootNamespace": "tech.onsen.vrc.ndmf.AvatarMotionChanger"
+}

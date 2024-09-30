@@ -1,0 +1,19 @@
+{
+  "name": "tech.onsen.vrc.ndmf.avatar-motion-changer",
+  "displayName": "Avatar Motion Changer",
+  "version": "1.0.0",
+  "description": "Change avatar motion in Playable Layers with NDMF.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.0",
+    "nadena.dev.ndmf": ">=1.4.0 <2.0.0-a"
+  },
+  "author": {
+    "name": "tmyt",
+    "email": "me@onsen.tech",
+    "url": "https://m6n.onsen.tech/@tmyt"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "unity": "2022.3"
+}

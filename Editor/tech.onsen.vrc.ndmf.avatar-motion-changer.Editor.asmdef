@@ -1,0 +1,25 @@
+{
+  "name": "tech.onsen.vrc.ndmf.avatar-motion-changer.Editor",
+  "references": [
+    "VRC.SDK3A",
+    "VRC.SDK3A.Editor",
+    "VRC.SDKBase",
+    "VRC.SDKBase.Editor",
+    "tech.onsen.vrc.ndmf.avatar-motion-changer",
+    "nadena.dev.ndmf",
+    "nadena.dev.ndmf.vrchat",
+    "nadena.dev.ndmf.runtime",
+    "tech.onsen.vrc.vndmf.avatar-motion-changer"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": [],
+  "rootNamespace": "tech.onsen.vrc.ndmf.AvatarMotionChanger"
+}
