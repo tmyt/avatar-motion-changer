@@ -1,30 +1,4 @@
-# Avatar Motion Changer
-
-This plugin is used to change the avatar motion in playable layers by NDMF(Non-Destructive Modular Framework).
-
-## Usage
-
-For example, Change `Fist` motion in `Left Hand` layer of `Gesture` animator. 
-
-1. Create GameObject under your avatar.
-2. Attach `AvatarMotionChanger` component to the GameObject.
-3. Press `+` in the `Avatar Motion Changer` component.
-4. Set the parameters,
-    - `Playable Layer`: `Gesture`
-    - `Layer`: `Left Hand`
-    - `State`: `Fist`
-    - `Motion`: Any motion object 
-5. After Run, you can see the motion is changed.
-
-## Acknowledgement
-
-This software includes the part of following software.
-
-- [bdunderscore/modular-avatar](https://github.com/bdunderscore/modular-avatar)
-
-## License
-
-MIT License
+﻿MIT License
 
 Copyright (c) 2024 Yutaka TSUMORI
 
