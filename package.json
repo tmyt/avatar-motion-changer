@@ -1,7 +1,7 @@
 {
   "name": "tech.onsen.vrc.ndmf.avatar-motion-changer",
   "displayName": "Avatar Motion Changer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Change avatar motion in Playable Layers with NDMF.",
   "gitDependencies": {},
   "vpmDependencies": {
