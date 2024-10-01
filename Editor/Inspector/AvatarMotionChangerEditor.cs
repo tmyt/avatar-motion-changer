@@ -141,7 +141,7 @@ namespace tech.onsen.vrc.ndmf.AvatarMotionChanger.Editor.Inspector
             if (!avatarDescriptor)
             {
                 EditorGUILayout.HelpBox(
-                    "This component must be attached to a GameObject with a VRCAvatarDescriptor component.",
+                    "This component must be attached to a GameObject under the GameObject with VRCAvatarDescriptor component.",
                     MessageType.Warning);
             }
             else
