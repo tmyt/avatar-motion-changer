@@ -1,5 +1,5 @@
 {
-  "name": "tech.onsen.vrc.vndmf.avatar-motion-changer",
+  "name": "tech.onsen.vrc.ndmf.avatar-motion-changer",
   "references": [
     "VRC.SDK3A",
     "VRC.SDKBase"
